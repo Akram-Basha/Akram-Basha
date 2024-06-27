@@ -1,7 +1,10 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A92A9E&center=true&vCenter=true&multiline=true&random=false&width=435&height=60&lines=Hello%2C+I'm+Akram+Saad;Computer+Engineering+Undergraduate+)](https://git.io/typing-svg)<br><br>
 
 
-
-
+<div align="left">
+  
 # 💫 About Me: <img align="right" height="175" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952in8y2dqvr5uk68lny2pxq1es6qcn0gpyzo5odh5j&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 🔭 I’m currently working on getting an internship role while i aquire my bachelor's degree. <br>👯 I’m looking to collaborate on STM32 and IOT Projects.<br>🌱 I’m currently learning Cross-platform mobile application development. <br>
 
