@@ -1,4 +1,5 @@
-# 💫 About Me:
+
+# 💫 About Me: <img align="right" height="175" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952in8y2dqvr5uk68lny2pxq1es6qcn0gpyzo5odh5j&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 🔭 I’m currently working on getting an internship role while i aquire my bachelor's degree. <br>👯 I’m looking to collaborate on STM32 and IOT Projects.<br>🌱 I’m currently learning Cross-platform mobile application development. <br>
 
 
@@ -8,8 +9,12 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22247740)
   <a href="https://www.hackerrank.com/profile/eng_akrambasha" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="20" alt="hackerrank logo"  />
-  </a>
-</div>
+  <a href="https://leetcode.com/u/AkramBasha/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=111111&logoColor=#d16c06&labelColor=&style=plastic" height="20" alt="LeetCode Logo"  />
+  <a href="https://codeforces.com/profile/eng.akrambasha/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeForces&logo=CodeForces&label=&color=yellow&logoColor=white&labelColor=&style=plastic" height="20" alt="CodeForces Logo"  />
+
+
 
 ###
 
@@ -33,3 +38,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Akram-Basha&icon=2&color=0)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/Akram-Basha/Akram-Basha/output/snake.svg" alt="Snake animation" />
+
+###
